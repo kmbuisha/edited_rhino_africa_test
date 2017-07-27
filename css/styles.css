@@ -57,7 +57,7 @@ a:hover{
     }
     .border{
         padding-top: 0%;
-        padding-bottom: 600px;        
+        padding-bottom: 600px !important;        
         padding-right: 30% !important;
     }
 }
@@ -69,6 +69,6 @@ a:hover{
         height: 10%;
     }
     .border{
-        padding-bottom: 20% !important;
+        padding-bottom: 600px !important;
     }
 }
