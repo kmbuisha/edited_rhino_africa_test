@@ -49,7 +49,7 @@ a:hover{
     .links{
         margin-left: 45%;
         font-size: 48px;
-        margin-bottom: 200px; 
+        margin-bottom: 250px; 
     }
     .logo{
         width: 100%;
@@ -57,7 +57,7 @@ a:hover{
     }
     .border{
         padding-top: 0%;
-        padding-bottom: 400px;        
+        padding-bottom: 600px;        
         padding-right: 30% !important;
     }
 }
