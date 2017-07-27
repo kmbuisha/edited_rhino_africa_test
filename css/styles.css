@@ -25,6 +25,11 @@ html, body {
     height: 120%;
     margin-left: 25%;
 }
+img {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
 
 .links{
     font-size: 28px;
@@ -50,7 +55,7 @@ a:hover{
         height: 40% !important;
     }
     .border{
-        padding-bottom: 30% !important;
+        padding-bottom: 400px;        
         padding-right: 30% !important;
     }
 }
@@ -63,14 +68,6 @@ a:hover{
     }
     .border{
         padding-bottom: 20% !important;
-        padding-top: 30px !importantx;
-    }
-}
-@media only screen and (max-height: 400px) {
-    .logo{
-        display: none;
-    }
-    .links{
-        font-size: 28px;
+        padding-top: 30px !important;
     }
 }
